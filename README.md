@@ -1,5 +1,3 @@
-# dc-
-dc.js的学习笔记
 ## Crossfilter API Reference
 crossfilter 表示多维数组集
 
